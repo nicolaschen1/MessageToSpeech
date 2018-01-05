@@ -1,0 +1,18 @@
+c:\users\helios\documents\visual studio 2015\Projects\MessageToSpeech\MessageToSpeech\bin\Debug\MessageToSpeech.exe.config
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\bin\Debug\MessageToSpeech.exe
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\bin\Debug\MessageToSpeech.pdb
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.csprojResolveAssemblyReference.cache
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.Form1.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.Properties.Resources.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.csproj.GenerateResource.Cache
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.exe
+C:\Users\helios\Documents\Visual Studio 2015\Projects\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\bin\Debug\MessageToSpeech.exe.config
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\bin\Debug\MessageToSpeech.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\bin\Debug\MessageToSpeech.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.csprojResolveAssemblyReference.cache
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.Form1.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.Properties.Resources.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\MessageToSpeech\MessageToSpeech\MessageToSpeech\obj\Debug\MessageToSpeech.csproj.GenerateResource.Cache
